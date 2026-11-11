@@ -99,5 +99,5 @@ npm run dev
 La documentación técnica completa está en [`docs/00_Indice.md`](./docs/00_Indice.md), incluyendo arquitectura, modelo de datos, requerimientos, manuales de usuario y administrador.
 
 ## Licencia
-
+a
 Uso académico — Proyecto Integrador, asignatura Tecnologías en Internet.%  

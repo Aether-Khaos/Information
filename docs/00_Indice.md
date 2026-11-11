@@ -1,7 +1,7 @@
 # Sistema Académico — Documentación Técnica
 
-**Proyecto:** Sistema de Gestión Académica para colegio boliviano  
-**Repositorio:** [REPO_URL]  
+**Proyecto:** Sistema de Gestión Académica para colegio T. H. Mallco Rancho
+
 **Stack:** React + Vite + TypeScript + Tailwind / Node.js + Express + TypeScript / PostgreSQL  
 **Autenticación:** Google OAuth 2.0 + JWT
 
