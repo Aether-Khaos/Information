@@ -1,6 +1,7 @@
 # Sistema Académico
 
-Sistema de gestión académica para colegio boliviano. Permite administrar estudiantes, docentes, materias, asignaciones, notas y asistencia, con paneles diferenciados por rol (administrador, docente, estudiante y padre/tutor).
+Sistema de gestión académica para colegio T.H. Mallco Rancho.
+ Permite administrar estudiantes, docentes, materias, asignaciones, notas y asistencia, con paneles diferenciados por rol (administrador, docente, estudiante y padre/tutor).
 
 **Demo en línea:** https://sistema-academico-eight.vercel.app/
 
@@ -100,4 +101,4 @@ La documentación técnica completa está en [`docs/00_Indice.md`](./docs/00_Ind
 
 ## Licencia
 a
-Uso académico — Proyecto Integrador, asignatura Tecnologías en Internet.%  
+Uso académico — Proyecto Integrador, asignatura Tecnologías en Internet.
